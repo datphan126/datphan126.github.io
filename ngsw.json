@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581630204448,
+  "timestamp": 1581630333605,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,7 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "/index.html": "b6e854547d649f71359da585007b3d2764ea7020",
+    "/index.html": "138474972f5a7d093bbe76361386dffe9b052e00",
     "/main-es2015.c6644c88752d9dd6d000.js": "5a5777a256499f28273f998737f5bbf1dc0b9c2a",
     "/main-es5.c6644c88752d9dd6d000.js": "72e917cd2107d829f5aef73e8e6ba71f43469a6b",
     "/manifest.webmanifest": "5850faa0da8fb65d101105d60afaa0b939b855f1",
