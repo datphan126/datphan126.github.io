@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581745976583,
+  "timestamp": 1581746200739,
   "index": "https://datphan126.github.io/index.html", 
   "assetGroups": [
     {
@@ -70,7 +70,7 @@
     "https://datphan126.github.io/index.html": "db256607b94057a26d95fa2e05dd558247b7290d",
     "https://datphan126.github.io/main-es2015.967413929a64cdf775e7.js": "96720a622c60f1581454b33eb3bd1832c4eeee98",
     "https://datphan126.github.io/main-es5.967413929a64cdf775e7.js": "2ee9df1104a9ec157d76b9d677f88a79e7cd2412",
-    "https://datphan126.github.io/manifest.webmanifest": "627b14b570596d38b9776c40e6ae8ff194db116f",
+    "https://datphan126.github.io/manifest.webmanifest": "a4ec168719743f8b998bdf3814b7ade4108baec4",
     "https://datphan126.github.io/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "https://datphan126.github.io/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
     "https://datphan126.github.io/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
