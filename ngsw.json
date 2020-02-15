@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1581744062949,
-  "index": "https://datphan126.github.io/index.html",
+  "timestamp": 1581745377558,
+  "index": "https://datphan126.github.io/index.html", 
   "assetGroups": [
     {
       "name": "app",
@@ -67,7 +67,7 @@
     "https://datphan126.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://datphan126.github.io/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "https://datphan126.github.io/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "https://datphan126.github.io/index.html": "44420ba6caa0eadc3c3411ddf957a9d4d2bffa3f",
+    "https://datphan126.github.io/index.html": "db256607b94057a26d95fa2e05dd558247b7290d",
     "https://datphan126.github.io/main-es2015.967413929a64cdf775e7.js": "96720a622c60f1581454b33eb3bd1832c4eeee98",
     "https://datphan126.github.io/main-es5.967413929a64cdf775e7.js": "2ee9df1104a9ec157d76b9d677f88a79e7cd2412",
     "https://datphan126.github.io/manifest.webmanifest": "1b37ef9f631c124390a487e2eff1fd016afa072b",
