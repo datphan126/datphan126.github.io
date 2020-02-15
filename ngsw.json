@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581763290833,
+  "timestamp": 1581764964905,
   "index": "https://datphan126.github.io/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,7 @@
     "https://datphan126.github.io/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
     "https://datphan126.github.io/index.html": "098f11bcee59228325178569b450409ab0551d5d",
     "https://datphan126.github.io/main.88c36020fb194cd742dc.js": "ae473478ce2850f21ae51ef3fe7f761fd9d63df4",
-    "https://datphan126.github.io/manifest.webmanifest": "f97fbaae70b683de6f4b4e8904f0bea0d8494a9b",
+    "https://datphan126.github.io/manifest.webmanifest": "04ef7124af48d7927e9d6f3f6058d4b3fbbaf237",
     "https://datphan126.github.io/polyfills-es5.1ee3ca2dbe8f2a7069bb.js": "358d121f2c73528ddd6abc912598525e9a69de6b",
     "https://datphan126.github.io/polyfills.27cb71b6e02b7924e158.js": "935cd07207812428056613f1300d15a61e0220e4",
     "https://datphan126.github.io/runtime.458556a34b891ea32398.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
