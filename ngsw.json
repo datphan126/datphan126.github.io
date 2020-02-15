@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581751176406,
+  "timestamp": 1581751709531,
   "index": "https://datphan126.github.io/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://datphan126.github.io/favicon.ico",
         "https://datphan126.github.io/index.html",
-        "https://datphan126.github.io/main-es2015.912da9fa95cc64197afb.js",
-        "https://datphan126.github.io/main-es5.912da9fa95cc64197afb.js",
+        "https://datphan126.github.io/main-es2015.967413929a64cdf775e7.js",
+        "https://datphan126.github.io/main-es5.967413929a64cdf775e7.js",
         "https://datphan126.github.io/manifest.webmanifest",
         "https://datphan126.github.io/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "https://datphan126.github.io/polyfills-es5.3e8196928d184a6e5319.js",
@@ -67,9 +67,9 @@
     "https://datphan126.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://datphan126.github.io/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "https://datphan126.github.io/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "https://datphan126.github.io/index.html": "fd323c7d47a73ad1f313aafe70b3c7ead0e1ed6b",
-    "https://datphan126.github.io/main-es2015.912da9fa95cc64197afb.js": "58d3fbb0f38cadd4bc61ea3f603e740db6ca5b80",
-    "https://datphan126.github.io/main-es5.912da9fa95cc64197afb.js": "d2d6f8a0fef38c8fda05dbf53a3caa005bfee508",
+    "https://datphan126.github.io/index.html": "db256607b94057a26d95fa2e05dd558247b7290d",
+    "https://datphan126.github.io/main-es2015.967413929a64cdf775e7.js": "96720a622c60f1581454b33eb3bd1832c4eeee98",
+    "https://datphan126.github.io/main-es5.967413929a64cdf775e7.js": "2ee9df1104a9ec157d76b9d677f88a79e7cd2412",
     "https://datphan126.github.io/manifest.webmanifest": "a4ec168719743f8b998bdf3814b7ade4108baec4",
     "https://datphan126.github.io/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "https://datphan126.github.io/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
