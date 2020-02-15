@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581734770268,
+  "timestamp": 1581735668786,
   "index": "https://datphan126.github.io/index.html",
   "assetGroups": [
     {
@@ -10,13 +10,13 @@
       "urls": [
         "https://datphan126.github.io/favicon.ico",
         "https://datphan126.github.io/index.html",
-        "https://datphan126.github.io/main-es2015.c6644c88752d9dd6d000.js",
-        "https://datphan126.github.io/main-es5.c6644c88752d9dd6d000.js",
+        "https://datphan126.github.io/main-es2015.a8bb1aaebdf9cd9f0a2f.js",
+        "https://datphan126.github.io/main-es5.a8bb1aaebdf9cd9f0a2f.js",
         "https://datphan126.github.io/manifest.webmanifest",
-        "https://datphan126.github.io/polyfills-es2015.2987770fde9daa1d8a2e.js",
-        "https://datphan126.github.io/polyfills-es5.6696c533341b95a3d617.js",
-        "https://datphan126.github.io/runtime-es2015.edb2fcf2778e7bf1d426.js",
-        "https://datphan126.github.io/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://datphan126.github.io/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "https://datphan126.github.io/polyfills-es5.3e8196928d184a6e5319.js",
+        "https://datphan126.github.io/runtime-es2015.c5fa8325f89fc516600b.js",
+        "https://datphan126.github.io/runtime-es5.c5fa8325f89fc516600b.js",
         "https://datphan126.github.io/styles.d695e19b38917dac449c.css"
       ],
       "patterns": []
@@ -67,14 +67,14 @@
     "https://datphan126.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://datphan126.github.io/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "https://datphan126.github.io/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "https://datphan126.github.io/index.html": "46868d19575c7c86f8a2f4a2d6377ffe9e176c5f",
-    "https://datphan126.github.io/main-es2015.c6644c88752d9dd6d000.js": "5a5777a256499f28273f998737f5bbf1dc0b9c2a",
-    "https://datphan126.github.io/main-es5.c6644c88752d9dd6d000.js": "72e917cd2107d829f5aef73e8e6ba71f43469a6b",
+    "https://datphan126.github.io/index.html": "8bdb99fb46c117dc024e1ce70edc61dc306e71a8",
+    "https://datphan126.github.io/main-es2015.a8bb1aaebdf9cd9f0a2f.js": "a571d671dfebdd34d9b98905c5f79c24bd6bda33",
+    "https://datphan126.github.io/main-es5.a8bb1aaebdf9cd9f0a2f.js": "11234c71d188ed98d468c189cc55fd02cd80319d",
     "https://datphan126.github.io/manifest.webmanifest": "1b37ef9f631c124390a487e2eff1fd016afa072b",
-    "https://datphan126.github.io/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
-    "https://datphan126.github.io/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
-    "https://datphan126.github.io/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://datphan126.github.io/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://datphan126.github.io/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://datphan126.github.io/polyfills-es5.3e8196928d184a6e5319.js": "a9abcb7b9e74feed315773004b623373fdf3fada",
+    "https://datphan126.github.io/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://datphan126.github.io/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://datphan126.github.io/styles.d695e19b38917dac449c.css": "7f59f3b95087ec9440a8242eec938fce00cc7bee"
   },
   "navigationUrls": [
