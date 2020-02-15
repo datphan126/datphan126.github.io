@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1581808083506,
+  "timestamp": 1581808827673,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,7 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "/index.html": "cfe6454cfa4508b0c5f8bad213394ffe76dbfc78",
+    "/index.html": "63d0e84409f4f7c5af2ee5134e8e6f26cb767a6f",
     "/main-es2015.967413929a64cdf775e7.js": "96720a622c60f1581454b33eb3bd1832c4eeee98",
     "/main-es5.967413929a64cdf775e7.js": "2ee9df1104a9ec157d76b9d677f88a79e7cd2412",
     "/manifest.webmanifest": "37d34dc518c0099f1e6307d762f0c0ee2356067f",
@@ -80,7 +80,19 @@
   "navigationUrls": [
     {
       "positive": true,
-      "regex": "^https:\\/\\/datphan126\\.github\\.io\\/$"
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
   ]
 }
